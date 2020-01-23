@@ -48,7 +48,7 @@
     <Folder>
       <name>Rehearsal studios</name>
       <Placemark>
-        <name>Rocket Park Studios</name>
+        <name href="./studio_1.html">Rocket Park Studios</name>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
         <Point>
           <coordinates>
