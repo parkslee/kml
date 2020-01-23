@@ -83,6 +83,23 @@
 	<Folder>
 		<name>Rehearsal studios</name>
 		<open>1</open>
+		
+		 <Placemark>
+      <name>CDATA example</name>
+      <description>
+        <![CDATA[
+          <h1>CDATA Tags are useful!</h1>
+          <p><font color="red">Text is <i>more readable</i> and 
+          <b>easier to write</b> when you can avoid using entity 
+          references.</font></p>
+        ]]>
+      </description>
+      <Point>
+        <coordinates>102.595626,14.996729</coordinates>
+      </Point>
+    </Placemark>
+		
+		
 		<Placemark>
 			<name>Rocket Park Studios</name>
 			<styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
