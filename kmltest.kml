@@ -17,7 +17,9 @@
     </Style>
     <Placemark>
       <name>No Recording Studio</name>
-      <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+      <description>Attached to the ground. Intelligently places itself 
+       at the height of the underlying terrain.</description>
+      
       <Point>
         <coordinates>
           0.605178900000055,51.6061977,0
