@@ -8,13 +8,10 @@
       <description>
         <![CDATA[
           <p href="www.google.com">rayleigh</p>
-<a href="www.google.com">rayleigh</a>
-<href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
-      </href>
-<href>https://google.com
-      </href>
-<p><href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
-      </href></p>
+<a href="https://www.google.com">rayleigh</a>
+ <![CDATA[
+    <a href="https://www.google.com">Fly to end</a>
+              ]]>
           <p><font color="red">Text is <i>more readable</i> and 
           <b>easier to write</b> when you can avoid using entity 
           references.</font></p>
