@@ -55,7 +55,13 @@
       <name>Rehearsal studios</name>
       
       <Placemark>
-        <name>Rocket Park Studios</name>
+        <name><![CDATA[
+    <a href="https://www.google.com">Fly to end</a>
+              ]]>
+          <p><font color="red">Text is <i>more readable</i> and 
+          <b>easier to write</b> entity 
+          references.</font></p>
+        ]]>Rocket Park Studios</name>
         <description>Attached to the ground. Intelligently places itself 
        at the height of the underlying terrain.</description>
         <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
