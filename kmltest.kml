@@ -11,5 +11,15 @@
         <coordinates>0.605178900000055,51.6061977,0</coordinates>
       </Point>
     </Placemark>
+    <Placemark>
+      <name>
+          <h1>No recording</h1>
+      </name>
+      <description>
+      </description>
+      <Point>
+        <coordinates>0.705178900000055,52.6061977,0</coordinates>
+      </Point>
+    </Placemark>
   </Document>
 </kml>
