@@ -6,13 +6,6 @@
           <h1>No recording</h1>
       </name>
       <description>
- <![CDATA[
-    <p href="https://www.google.com">Fly to end</p>
-              ]]>
-          <p><font color="red">Text is <i>more readable</i> and 
-          <b>easier to write</b> entity 
-          references.</font></p>
-        ]]>
       </description>
       <Point>
         <coordinates>0.605178900000055,51.6061977,0</coordinates>
