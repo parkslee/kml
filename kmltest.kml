@@ -6,6 +6,9 @@
           <h1>No recording</h1>
       </name>
       <description>
+              <![CDATA[
+    <a href="https://github.com/parkslee/kml/edit/master/kmltest.kml">Fly to end</a>
+              ]]>
       </description>
       <Point>
         <coordinates>0.605178900000055,51.6061977,0</coordinates>
