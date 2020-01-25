@@ -1,0 +1,3101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <Placemark>
+      <description>
+          <h1>No recording</h1>
+      </description>
+      <description>
+              <![CDATA[
+    <a href="https://github.com/parkslee/kml/edit/master/kmltest.kml">Fly to end</a>
+              ]]>
+      </description>
+      <Point>
+        <coordinates>0.605178900000055,51.6061977,0</coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <description>
+          <h1>No recording</h1>
+      </description>
+  
+      <Point>
+        <coordinates>0.705178900000055,52.6061977,0</coordinates>
+      </Point>
+    </Placemark>
+
+<Placemark>
+        <description>Mushroom Rehearsal Studios</description>
+        <description><![CDATA[Lubbards Lodge, Hullbridge Rd, Rayleigh SS6 9QG<br>www.mushroomrehearsalstudios.com<br>+44 7833 104822]]></description>
+        
+        <Point>
+          <coordinates>
+            0.610810399999991,51.6059203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 808</description>
+        <description><![CDATA[Unit 11A, Robjohns House, Navigation Rd, Chelmsford CM2 6ND<br>www.studio808online.co.uk<br>+44 1245 261338]]></description>
+        
+        <Point>
+          <coordinates>
+            0.481170900000052,51.7331205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pioneer Music</description>
+        <description><![CDATA[21 Chandlers Row, Colchester CO1 2HG<br>www.pioneermusic.co.uk<br>+44 1206 791604]]></description>
+        
+        <Point>
+          <coordinates>
+            0.921248699999978,51.8808365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Space London</description>
+        
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Creative Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.361499999999978,51.561398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Stag Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            0.649765800000068,51.8019573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>AT Music Group</description>
+        
+        <Point>
+          <coordinates>
+            0.548726200000033,51.6523802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundmagic Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.710431500000027,51.7837238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Card Trick Music</description>
+        
+        <Point>
+          <coordinates>
+            0.41741879999995,51.7155664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 6 Music</description>
+        
+        <Point>
+          <coordinates>
+            0.646727999999939,51.806799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Stag Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            0.649765800000068,51.8019573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mushroom Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.610810399999991,51.6059203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>AT Music Group</description>
+        
+        <Point>
+          <coordinates>
+            0.548726200000033,51.6523802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundmagic Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.710431500000027,51.7837238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Card Trick Music</description>
+        
+        <Point>
+          <coordinates>
+            0.41741879999995,51.7155664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 6 Music</description>
+        
+        <Point>
+          <coordinates>
+            0.646727999999939,51.806799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 808</description>
+        
+        <Point>
+          <coordinates>
+            0.481170900000052,51.7331205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Creative Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.361499999999978,51.561398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pioneer Music</description>
+        
+        <Point>
+          <coordinates>
+            0.921248699999978,51.8808365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Space London</description>
+        
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Stag Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            0.649765800000068,51.8019573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Space London</description>
+        
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mushroom Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.610810399999991,51.6059203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>AT Music Group</description>
+        
+        <Point>
+          <coordinates>
+            0.548726200000033,51.6523802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundmagic Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.710431500000027,51.7837238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Card Trick Music</description>
+        
+        <Point>
+          <coordinates>
+            0.41741879999995,51.7155664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 6 Music</description>
+        
+        <Point>
+          <coordinates>
+            0.646727999999939,51.806799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 808</description>
+        
+        <Point>
+          <coordinates>
+            0.481170900000052,51.7331205,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Creative Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.361499999999978,51.561398,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pioneer Music</description>
+        
+        <Point>
+          <coordinates>
+            0.921248699999978,51.8808365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Space London</description>
+        
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Apollo Studio London</description>
+        
+        <Point>
+          <coordinates>
+            -0.091101999999978,51.576354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.219431200000031,51.5122775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>London Rehearsal Space</description>
+        
+        <Point>
+          <coordinates>
+            -0.0903716000000259,51.5212975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westbourne Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.191104900000028,51.5208865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Engine Rooms Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.0229888000000074,51.5238422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Vatican Rehearsal and Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.048106999999959,51.525887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bush Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.226247000000058,51.5056228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strummers Studios - Rehearsal, Recording and Backline Hire</description>
+        
+        <Point>
+          <coordinates>
+            -0.111200999999937,51.5508259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Space London</description>
+        
+        <Point>
+          <coordinates>
+            -0.025810999999976,51.481511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strummers Studios - Rehearsal, Recording and Backline Hire</description>
+        
+        <Point>
+          <coordinates>
+            -0.111200999999937,51.5508259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Apollo Studio London</description>
+        
+        <Point>
+          <coordinates>
+            -0.091101999999978,51.576354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>London Rehearsal Space</description>
+        
+        <Point>
+          <coordinates>
+            -0.0903716000000259,51.5212975,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westbourne Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.191104900000028,51.5208865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Engine Rooms Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.0229888000000074,51.5238422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.0283592000000681,51.4904833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bush Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.226247000000058,51.5056228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>NSP Recording and Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.527525999999966,51.22955,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Riverside Rehearsal Studios & Drumzone Shop]]></description>
+        
+        <Point>
+          <coordinates>
+            0.216518899999983,51.4504732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Ebbsfleet Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.316181599999936,51.4502713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Sunlight Recording & Rehearsal Studio]]></description>
+        
+        <Point>
+          <coordinates>
+            0.550517600000035,51.3931849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Swanley Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.18151499999999,51.404508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Aardvark Music Services-Rehearsal Room and Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.99496529999999,51.3210928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Langlei Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.597627099999954,51.33527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dover Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.31091939999999,51.1325951,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Fort Rehearsal and Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.512423200000057,51.3581029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Orange Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.525056100000029,51.2839837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strongroom Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.0801099999999906,51.525958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mushroom Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.610810399999991,51.6059203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.0283592000000681,51.4904833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strummers Studios - Rehearsal, Recording and Backline Hire</description>
+        
+        <Point>
+          <coordinates>
+            -0.111200999999937,51.5508259,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Vatican Rehearsal and Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.048106999999959,51.525887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bush Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.226247000000058,51.5056228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westbourne Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.191104900000028,51.5208865,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Banana Road Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.166286000000014,51.481022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pioneer Music</description>
+        
+        <Point>
+          <coordinates>
+            0.921248699999978,51.8808365,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Strongroom Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.0801099999999906,51.525958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Warehouse Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.23728099999994,51.705551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Master Rhythm Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.21813700000007,51.731878,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Glasshouse Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.33165899999995,51.739739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundworks Recording Studio Oxford</description>
+        
+        <Point>
+          <coordinates>
+            -1.20132799999999,51.721335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rotator Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.23568309999996,51.7417302,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Evolution Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.27752080000005,51.7484508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Safehouse Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.23908449999999,51.7517576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Cooz's Records]]></description>
+        
+        <Point>
+          <coordinates>
+            -1.29427380000004,51.7517325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Accelerator Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.200422,51.763801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Oxfordshire Music Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.07949080000003,51.6609117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rhinocorn Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.148356400000011,52.2147136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Lock Up Cambridge Music Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            0.160633999999959,52.223815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Half-ton Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.158631499999956,52.2377805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kite Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.132208600000013,52.2076753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Flightpath Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.19295980000004,52.2120286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Headline Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            0.0735515999999734,52.1429983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Zoo Audio</description>
+        
+        <Point>
+          <coordinates>
+            0.164058699999941,52.2435395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Resonant Rehearsals</description>
+        
+        <Point>
+          <coordinates>
+            0.158636200000046,52.2378123,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bookmatch Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.0640978999999788,52.1780534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rhinocorn Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.148420999999985,52.214731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>New Money Recordings</description>
+        
+        <Point>
+          <coordinates>
+            -0.770609799999988,52.0344919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Lost Boys Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.592766999999981,52.09208,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Old School Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.792558500000041,52.0646346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mr Gig Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.720678000000021,51.9994274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hillside Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.773481100000026,51.9661695,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Unit Nine Live Music Venue</description>
+        
+        <Point>
+          <coordinates>
+            -0.810222999999951,52.066018,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rock Hard Music Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.818188999999961,52.0653257,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Eastwood Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.818454100000054,52.1024488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Superhet</description>
+        
+        <Point>
+          <coordinates>
+            -0.810755999999969,51.967533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>RGS Music Group</description>
+        
+        <Point>
+          <coordinates>
+            -0.81022310000003,52.0660178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            0.711571700000036,52.2425465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Shrubbery Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            0.724185199999965,52.2492995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundz Wicked Productions</description>
+        
+        <Point>
+          <coordinates>
+            0.698329000000058,52.247687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Prosound Ipswich</description>
+        
+        <Point>
+          <coordinates>
+            1.13077799999996,52.059956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Punch Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.14469110000005,52.0614267,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dove Studio</description>
+        
+        <Point>
+          <coordinates>
+            1.16269179999995,52.0596909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gemini Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.17988400000002,52.0479167,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dove Studio</description>
+        
+        <Point>
+          <coordinates>
+            1.16658810000001,52.05703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>HVR Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.07096799999999,52.051596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Central Audio Lab</description>
+        
+        <Point>
+          <coordinates>
+            1.15735710000001,52.0543039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gemini 2</description>
+        
+        <Point>
+          <coordinates>
+            1.19775149999998,52.0614269,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>South Street Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.14469099999997,52.061427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Amblin' Man Recording Studios]]></description>
+        
+        <Point>
+          <coordinates>
+            1.22247200000004,52.1528381,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Plug Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.28370840000002,52.6378916,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Earth Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.33766650000007,52.6494026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Live Wire Rerhearsal Recording</description>
+        
+        <Point>
+          <coordinates>
+            1.21304499999997,52.642405,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Art Science Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            1.30714650000004,52.6281332,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Ashwood Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            1.21617349999997,52.6349301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.28987499999994,52.6062274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Woodshack Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            1.12040649999994,52.5711639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Laffing Boy Music</description>
+        
+        <Point>
+          <coordinates>
+            -0.288397700000019,52.5742081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rocket Park Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.263255100000038,52.5929185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>A M S Music</description>
+        
+        <Point>
+          <coordinates>
+            -0.221757799999978,52.5942981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Den Production Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.261788900000056,52.5557172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Drip Dry Productions</description>
+        
+        <Point>
+          <coordinates>
+            -0.247323000000051,52.58241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Parlour Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.732694600000059,52.423792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.944002500000011,51.4583014,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Junction Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.948132600000008,51.4527117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Silver Street Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.966656499999999,51.4497542,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>UK Live Sound</description>
+        
+        <Point>
+          <coordinates>
+            -0.981844099999989,51.4621122,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Gig Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -0.986886700000014,51.4629949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Outhouse Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.994577299999946,51.4532533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Dumb Yank Productions Recording & Musicworks]]></description>
+        
+        <Point>
+          <coordinates>
+            -0.971651599999973,51.4669773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Platform Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.02034300000003,51.430746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Plug N Play</description>
+        
+        <Point>
+          <coordinates>
+            -0.981818200000021,51.4622613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Whitehouse Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.97215499999993,51.4461734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pure Rehearsal</description>
+        
+        <Point>
+          <coordinates>
+            -1.39028499999995,50.90015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Planet Sounds</description>
+        
+        <Point>
+          <coordinates>
+            -1.39583259999995,50.8996303,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[River Recording Studio: Rehearsal Rooms, Singing, Drum & Guitar Lessons in Southampton]]></description>
+        
+        <Point>
+          <coordinates>
+            -1.48631230000001,50.9150333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Untapped Talent Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.4158304,50.9079718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Blackhill Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.40254449999998,50.912527,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mutant Lab Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.40508,50.9029617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The White Room Recording and Production Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.36732099999995,50.900704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio 17</description>
+        
+        <Point>
+          <coordinates>
+            -1.41741999999999,50.9078049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>RS Studios (Bristol)</description>
+        
+        <Point>
+          <coordinates>
+            -2.57284600000003,51.44928,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Factory Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.56313390000003,51.4529298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Firebird Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.53996919999997,51.432356,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.56668089999994,51.457592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Music APE Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.58623829999999,51.4829006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Room4 Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.55693840000004,51.4617911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dockside Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.6095229,51.4476422,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jam Jar</description>
+        
+        <Point>
+          <coordinates>
+            -2.57839139999999,51.4595924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Artist Studios Bristol</description>
+        
+        <Point>
+          <coordinates>
+            -2.59169010000005,51.4612598,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Actiontrack Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.10403399999996,51.020181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Razorback Productions</description>
+        
+        <Point>
+          <coordinates>
+            -3.09548500000005,51.0175309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Taunton Amateur Operatic Society</description>
+        
+        <Point>
+          <coordinates>
+            -3.104287,51.0244238,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Muddy Road Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.17555820000007,50.92185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Chicken Shed Recording / Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.72803599999997,51.139309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Orchard Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.67005199999994,51.087741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Beehive Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.88971089999995,51.095161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Levelsound Music Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -2.92217159999996,51.0430236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>level up recording studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.88993949999997,50.9782918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Supreme Youth Project</description>
+        
+        <Point>
+          <coordinates>
+            -3.10594200000003,51.018395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.15875800000003,50.368531,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Plymouth Music Collective</description>
+        
+        <Point>
+          <coordinates>
+            -4.12509699999998,50.368866,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Studio City Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -4.16234280000003,50.3816991,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jemstone Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.12744079999993,50.3682046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>April Media Productions</description>
+        
+        <Point>
+          <coordinates>
+            -4.1668717,50.3779204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Momentum Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.03814869999997,50.3980514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Studio</description>
+        
+        <Point>
+          <coordinates>
+            -4.15989250000007,50.3685774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>dBs Music Plymouth</description>
+        
+        <Point>
+          <coordinates>
+            -4.13897339999994,50.3693301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundhouse Brass</description>
+        
+        <Point>
+          <coordinates>
+            -4.10031419999996,50.4120369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Plymouth Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -4.20334100000002,50.3437008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.87911499999996,52.4740056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Robannas Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.89649699999995,52.48845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>UPRAWR Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.90253299999995,52.4884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Oxygen Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.90956600000004,52.4915871,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>So Called Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.82123890000003,52.4477181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mercury Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.93128300000001,52.412488,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Muthers Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.89059410000004,52.4713192,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>RB Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.92390390000003,52.4165003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hockley Street Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.90880779999998,52.4909466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>moseley rehearsals</description>
+        
+        <Point>
+          <coordinates>
+            -1.88947210000003,52.4553273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Shrubby Road Studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.21301829999993,52.1955293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Old Smithy Recording Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -2.21680029999993,52.1395771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Tower Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.07165220000002,52.12954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>MayB Studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.07776910000007,52.1189965,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Teach Me Music Academy</description>
+        
+        <Point>
+          <coordinates>
+            -2.24741589999996,52.3867462,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Severn Valley Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.27241000000004,52.226626,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Music Chamber School of Music (TMCSM)</description>
+        
+        <Point>
+          <coordinates>
+            -2.20239990000005,52.1956117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Complete Sound Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.52830990000007,52.2830481,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>14 Records</description>
+        
+        <Point>
+          <coordinates>
+            -1.53348589999996,52.2844115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Woodbine Street Recording Studio Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -1.52366870000003,52.2840474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Band Factory</description>
+        
+        <Point>
+          <coordinates>
+            -1.52912300000003,52.2830274,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>One Nation</description>
+        
+        <Point>
+          <coordinates>
+            -1.53711929999997,52.2862154,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Noisegate Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.55216259999997,52.2727025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>D Music</description>
+        
+        <Point>
+          <coordinates>
+            -1.52368980000006,52.2843436,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gighouse Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.52197209999997,52.2462949,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sounding Sweet</description>
+        
+        <Point>
+          <coordinates>
+            -1.53184839999994,52.2921309,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Warwick Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.58192899999995,52.2837287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Still Ill Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.14860699999997,52.618164,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Stayfree Music</description>
+        
+        <Point>
+          <coordinates>
+            -1.14304370000002,52.641134,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Quad Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.13461970000003,52.6428413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Deadline Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.15380000000005,52.60377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Yellow Bean Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.14943160000007,52.6223727,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Roasted Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.12787849999995,52.642354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Magnet Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.13506440000003,52.9510322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Nottingham Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.13561500000003,52.956097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Octave Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.14989100000003,52.96317,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Subway Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.14924270000006,52.9629683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Attic Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.14343400000007,52.986254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Bunker9 Studios - Nottingham</description>
+        
+        <Point>
+          <coordinates>
+            -1.13536899999997,52.955994,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Psyrex Soundlab</description>
+        
+        <Point>
+          <coordinates>
+            -1.15861799999993,52.9838687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Brunswick Mill Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.21461539999996,53.4849495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.24085239999999,53.4926227,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.28532010000004,53.4733716,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Guerrilla Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.24373790000004,53.4971711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>G2 (the Greenhouse Manchester)</description>
+        
+        <Point>
+          <coordinates>
+            -2.21437200000003,53.484429,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Blueprint Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.25154399999997,53.486737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sort Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -2.97787300000005,53.392206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Crash Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.98702700000001,53.407692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.99990260000004,53.4190033,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>RPM Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.98181279999994,53.3918289,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Vulcan Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -2.99962430000005,53.4172632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Court 10 Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.98639679999997,53.4072821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Box Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.99507170000004,53.4260729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.5786617,53.803549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Eiger Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.54192739999996,53.7836084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Old Chapel Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.55943600000001,53.788514,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Jar Mills Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.52944439999999,53.8030556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Blueberry Hill Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.57964000000004,53.803147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[The Rock & Roll Circus]]></description>
+        
+        <Point>
+          <coordinates>
+            -1.58261010000001,53.8007937,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Africa Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.352971099999991,53.7549785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>ROCKIT STUDIO</description>
+        
+        <Point>
+          <coordinates>
+            -0.342971700000021,53.7619055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -0.307157899999993,53.7477086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Element Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.33127479999996,53.756255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cool School of Singing</description>
+        
+        <Point>
+          <coordinates>
+            -0.369560399999955,53.7580887,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Attic Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.47450600000002,53.391211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.44785160000004,53.3988453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Hybrid 3 Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.46972540000002,53.3634295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Yellow Arch Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.47393999999997,53.39186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Insonic Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.550125999999977,53.194619,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Playing Aloud</description>
+        
+        <Point>
+          <coordinates>
+            -0.597542500000031,53.1997572,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Brickbeat Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.537471800000048,53.2322744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>BMP The Sound Recording Company Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -0.554989400000068,53.2279827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cosmic Sound</description>
+        
+        <Point>
+          <coordinates>
+            -0.682278999999994,53.109322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Magnet Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.13506440000003,52.9510322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>FP Studio</description>
+        
+        <Point>
+          <coordinates>
+            -0.77656120000006,53.0636441,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Zebra Express Events</description>
+        
+        <Point>
+          <coordinates>
+            -0.608048199999985,53.2007888,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Venombase Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.19019600000001,53.016901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Bad Apple Rehearsal & Recording Studios]]></description>
+        
+        <Point>
+          <coordinates>
+            -2.17040139999995,53.0338308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Riff Factory</description>
+        
+        <Point>
+          <coordinates>
+            -2.17573590000006,52.9989532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Conservatory Rehearsal Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -2.17570669999998,52.9990954,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Bandstand Rehearsal and Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.18928099999994,53.0461507,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Summerbank Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.21352400000001,53.0680186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Boston Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -0.0166299999999637,52.963063,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Star Events</description>
+        
+        <Point>
+          <coordinates>
+            -0.306658999999968,51.482911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Jam Factory Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -1.0764345,53.9687767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The White Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -1.02707359999999,53.958418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Precentor Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -1.10281320000001,53.9557608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Reel Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.02633430000003,53.9585255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Crypt Rehearsals</description>
+        
+        <Point>
+          <coordinates>
+            -1.30646899999999,53.965343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Young Thugs Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.09159249999993,53.9464243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.29649989999996,55.9300934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Tonegarden</description>
+        
+        <Point>
+          <coordinates>
+            -3.1820467,55.9398578,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Music base</description>
+        
+        <Point>
+          <coordinates>
+            -3.17510770000001,55.9724311,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Depot Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.22873400000003,55.9819175,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Banana Row Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.19789190000006,55.9619815,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Coloursound</description>
+        
+        <Point>
+          <coordinates>
+            -3.22090500000002,55.9460883,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Juvat Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.14281959999994,55.9344105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Swanfield Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.20170229999997,55.9471549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Glasgow Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.24551459999998,55.8557478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Lofi Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.25169800000003,55.8615204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.28833589999999,55.8480743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Empire Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.29261700000006,55.851566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Audio Lounge</description>
+        
+        <Point>
+          <coordinates>
+            -4.28630109999995,55.8900139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Berkeley 2</description>
+        
+        <Point>
+          <coordinates>
+            -4.27581659999998,55.8591914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[The Greenroom Rehearsal & Recording Studio]]></description>
+        
+        <Point>
+          <coordinates>
+            -4.31671959999994,55.8638629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Fusion Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.29117199999996,55.8907389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Carlton Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.25557520000007,55.8539079,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Space Studio</description>
+        
+        <Point>
+          <coordinates>
+            -2.94319100000007,54.8875299,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Fresh Mastering</description>
+        
+        <Point>
+          <coordinates>
+            -2.98169370000005,54.8842413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Brickyard</description>
+        
+        <Point>
+          <coordinates>
+            -2.93893950000006,54.8962287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Linden Studio - Professional Recording Studio in Cumbria</description>
+        
+        <Point>
+          <coordinates>
+            -2.58477319999997,54.4479715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>East Beach Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.22551320000002,54.1165194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Music Farm</description>
+        
+        <Point>
+          <coordinates>
+            -3.49516189999997,54.479825,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Lovers Lane Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.60875869999995,55.070853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Loft Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.60835900000006,54.973229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Old Fire Station</description>
+        
+        <Point>
+          <coordinates>
+            -2.93650070000001,54.8970632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -1.44785160000004,53.3988453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[KBSW Stiwdio Un / Studio One / Residential Recording & Rehearsal Music Studio, North Wales]]></description>
+        
+        <Point>
+          <coordinates>
+            -4.05969140000002,53.1917323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Music Wales Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.67483689999995,51.5266757,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Music Mine Studios Recording and Rehearsal Rooms Music Lessons</description>
+        
+        <Point>
+          <coordinates>
+            -3.29881399999999,53.330363,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Musicbox Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -3.19825839999999,51.4598168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>UNIT40 RECORDING/REHEARSAL STUDIOS</description>
+        
+        <Point>
+          <coordinates>
+            -3.32252199999994,51.627748,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.17902749999996,51.4690732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Cardiff Arches</description>
+        
+        <Point>
+          <coordinates>
+            -3.1731264,51.4765765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Resonance Music Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.59529989999999,51.4982452,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Panic Promotions</description>
+        
+        <Point>
+          <coordinates>
+            -3.00542829999995,53.2149245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Mad Dog Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.99933009999995,53.2238112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Cardiff Arches</description>
+        
+        <Point>
+          <coordinates>
+            -3.1731264,51.4765765,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.17902749999996,51.4690732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Musicbox Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -3.19825839999999,51.4598168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Under Construction Band Practice Rooms</description>
+        
+        <Point>
+          <coordinates>
+            -3.18067559999997,51.4916339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Streetlevel studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.19041479999999,51.480001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>MusicRoomz</description>
+        
+        <Point>
+          <coordinates>
+            -3.23315630000002,51.508766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Reel Time Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.18083060000004,51.4916158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>StudioToy</description>
+        
+        <Point>
+          <coordinates>
+            -3.14891790000001,51.4906995,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Kings Road Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.20014960000003,51.4858671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Castle Lane Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.16497419999996,51.486347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Soundscape Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.80449010000007,52.7156608,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>LCD Studios</description>
+        
+        <Point>
+          <coordinates>
+            -2.73216309999998,52.7268683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Audio XL</description>
+        
+        <Point>
+          <coordinates>
+            -2.77281779999998,52.695162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Aberystwyth Music Studio</description>
+        
+        <Point>
+          <coordinates>
+            -4.02642409999999,52.4447184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Troubadour Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.24622790000001,53.3666901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Loop Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.26062669999999,53.3477239,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Darklands Audio Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -6.267563,53.351397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Temple Lane Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.26473499999997,53.3449713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Dedsound Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.35784699999999,53.3283464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Feedback Rehearsal Studios Dublin</description>
+        
+        <Point>
+          <coordinates>
+            -6.21324060000006,53.2727021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westland Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.24857870000005,53.344234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Avenue Road Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.27074760000005,53.3306437,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Camden Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.26613150000003,53.3347523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Badlands Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.27922390000003,53.3281621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Troubadour Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.24622790000001,53.3666901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Camden Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.26613150000003,53.3347523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Westland Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.24857870000005,53.344234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Temple Lane Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.26473499999997,53.3449713,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Golden Egg Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -7.246982,53.012465,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Grouse Lodge Residential Recording Studios</description>
+        
+        <Point>
+          <coordinates>
+            -7.64707899999996,53.4470097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Forge Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -9.06008889999998,53.2726828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>JAM Studios</description>
+        
+        <Point>
+          <coordinates>
+            -6.92685800000004,53.74557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Cloud9 Studios</description>
+        
+        <Point>
+          <coordinates>
+            -5.93346109999993,54.5982548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>SLANE STUDIOS</description>
+        
+        <Point>
+          <coordinates>
+            -6.633692,53.683066,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Glasgow Music Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.24551459999998,55.8557478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description><![CDATA[Offbeat Recording Studio & Music Production]]></description>
+        
+        <Point>
+          <coordinates>
+            -3.186421,55.950419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Cottage Residential Music Studio</description>
+        
+        <Point>
+          <coordinates>
+            -4.94914429999994,56.2595513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Clearwater Studios</description>
+        
+        <Point>
+          <coordinates>
+            -3.42707240000004,56.3861266,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Pirate Studios - Rehearsal Studios</description>
+        
+        <Point>
+          <coordinates>
+            -4.28833589999999,55.8480743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Gorbals Sound Ltd Recording Studio</description>
+        
+        <Point>
+          <coordinates>
+            -4.25574740000002,55.8472026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Loopmaniac Recording Rehearsal Production Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.45890220000001,56.0644596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Chamber Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.23151559999997,55.9789673,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>The Bunker Rehearsal Studio</description>
+        
+        <Point>
+          <coordinates>
+            -3.88891680000006,55.9961638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <description>Sound Magic Music Studios Ltd</description>
+        
+        <Point>
+          <coordinates>
+            -4.63129060000006,55.4715009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+
+  </Document>
+</kml>
