@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Rehearsal Studios</name>
+    <NetworkLink>
+      <name>uk rehearsal studios</name>
+      <Link>
+        <href><![CDATA[http://www.google.com/maps/d/kml?forcekml=1&mid=1qJeM9FJbT98KRNnTo0dFe6KfC5PKmK3E&lid=G-m7UrUStsU]]></href>
+      </Link>
+    </NetworkLink>
+  </Document>
+</kml>
