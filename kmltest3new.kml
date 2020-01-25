@@ -14,8 +14,7 @@
         <coordinates>0.605178900000055,51.6061977,0</coordinates>
       </Point>
     </Placemark>
-
-     <Placemark>
+    <Placemark>
        <name>
           <h1>creative</h1>
       </name>
@@ -27,6 +26,5 @@
           </coordinates>
         </Point>
       </Placemark>
-   
-  </Document>
+     </Document>
 </kml>
