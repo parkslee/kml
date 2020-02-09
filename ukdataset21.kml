@@ -5,9 +5,9 @@
         <name id="mushroom">Mushroom Rehearsal Studios
               </name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Mushroom%20Rehearsal%20Studios">Details</a><br>
               ]]><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Mushroom Rehearsal Studios">Details</a><br>
               ]]><![CDATA[Lubbards Lodge, Hullbridge Rd, Rayleigh SS6 9QG<br>www.mushroomrehearsalstudios.com<br>+44 7833 104822]]></description>
         <Point>
           <coordinates>
@@ -16,9 +16,9 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name id="name">Studio 808</name>
+        <name>Studio 808</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Studio%20808">Details</a><br>
               ]]><![CDATA[Unit 11A, Robjohns House, Navigation Rd, Chelmsford CM2 6ND<br>www.studio808online.co.uk<br>+44 1245 261338]]></description>
         <Point>
           <coordinates>
@@ -29,7 +29,7 @@
       <Placemark>
         <name>Pioneer Music</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Pioneer%20Music">Details</a><br>
               ]]><![CDATA[21 Chandlers Row, Colchester CO1 2HG<br>www.pioneermusic.co.uk<br>+44 1206 791604]]></description>
         <Point>
           <coordinates>
@@ -40,7 +40,7 @@
       <Placemark>
         <name>Rehearsal Space London</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Rehearsal%20Space%20London">Details</a><br>
               ]]><![CDATA[1 Creek Rd, Greenwich, London SE8 3BT<br>www.rehearsalspacefinder.com<br>+44 20 8691 3803]]></description>
         <Point>
           <coordinates>
@@ -51,7 +51,7 @@
       <Placemark>
         <name>Creative Music Studios</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Creative%20Music%20Studios">Details</a><br>
               ]]><![CDATA[Middleton Hall, Brentwood Rd, Horndon on the Hill, Brentwood CM13 3LX<br>www.creativemusicstudios.co.uk<br>+44 1277 811886]]></description>
         <Point>
           <coordinates>
@@ -62,7 +62,7 @@
       <Placemark>
         <name>Stag Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=Stag%20Studios%20Ltd">Details</a><br>
               ]]><![CDATA[Unit 3, Stepfield, Witham CM8 3TH<br>www.stagstudios.co.uk<br>+44 1376 502209]]></description>
         <Point>
           <coordinates>
@@ -73,7 +73,7 @@
       <Placemark>
         <name>AT Music Group</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=AT%20Music%20Group">Details</a><br>
               ]]><![CDATA[Unit 11, Rawlings Farm Bldg, Main Rd, Rettendon Common, Chelmsford CM3 8DY<br>www.atmusicgroup.co.uk<br>+44 333 121 8080]]></description>
         <Point>
           <coordinates>
@@ -84,7 +84,7 @@
       <Placemark>
         <name>Soundmagic Studios</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=">Details</a><br>
               ]]><![CDATA[55 Mill Rd, Great Totham, Maldon CM9 8DH<br>www.soundmagic.co.uk<br>+44 1621 891643]]></description>
         <Point>
           <coordinates>
@@ -95,7 +95,7 @@
       <Placemark>
         <name>Card Trick Music</name>
         <description><![CDATA[
-    <a href="./test2.html">Details</a><br>
+    <a href="./test2.html?name=">Details</a><br>
               ]]><![CDATA[10 Margaretting Rd, Writtle, Chelmsford CM1 3PJ<br>www.cardtrickmusic.co.uk<br>+44 7718 210355]]></description>
         <Point>
           <coordinates>
@@ -106,7 +106,7 @@
       <Placemark>
         <name>Studio 6 Music</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[Unit 6, 18 Crittall Rd, Witham CM8 3DR<br>www.studio6music.com<br>+44 1376 517856]]></description>
         <Point>
           <coordinates>
@@ -117,7 +117,7 @@
       <Placemark>
         <name>Stag Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[Unit 3, Stepfield, Witham CM8 3TH<br>www.stagstudios.co.uk<br>+44 1376 502209]]></description>
         <Point>
           <coordinates>
@@ -128,7 +128,7 @@
       <Placemark>
         <name>Mushroom Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Lubbards Lodge, Hullbridge Rd, Rayleigh SS6 9QG<br>www.mushroomrehearsalstudios.com<br>+44 7833 104822]]></description>
         <Point>
           <coordinates>
@@ -139,7 +139,7 @@
       <Placemark>
         <name>AT Music Group</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11, Rawlings Farm Bldg, Main Rd, Rettendon Common, Chelmsford CM3 8DY<br>www.atmusicgroup.co.uk<br>+44 333 121 8080]]></description>
         <Point>
           <coordinates>
@@ -150,7 +150,7 @@
       <Placemark>
         <name>Soundmagic Studios</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[55 Mill Rd, Great Totham, Maldon CM9 8DH<br>www.soundmagic.co.uk<br>+44 1621 891643]]></description>
         <Point>
           <coordinates>
@@ -161,7 +161,7 @@
       <Placemark>
         <name>Card Trick Music</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[10 Margaretting Rd, Writtle, Chelmsford CM1 3PJ<br>www.cardtrickmusic.co.uk<br>+44 7718 210355]]></description>
         <Point>
           <coordinates>
@@ -172,7 +172,7 @@
       <Placemark>
         <name>Studio 6 Music</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Unit 6, 18 Crittall Rd, Witham CM8 3DR<br>www.studio6music.com<br>+44 1376 517856]]></description>
         <Point>
           <coordinates>
@@ -183,7 +183,7 @@
       <Placemark>
         <name>Studio 808</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11A, Robjohns House, Navigation Rd, Chelmsford CM2 6ND<br>www.studio808online.co.uk<br>+44 1245 261338]]></description>
         <Point>
           <coordinates>
@@ -194,7 +194,7 @@
       <Placemark>
         <name>Creative Music Studios</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[Middleton Hall, Brentwood Rd, Horndon on the Hill, Brentwood CM13 3LX<br>www.creativemusicstudios.co.uk<br>+44 1277 811886]]></description>
         <Point>
           <coordinates>
@@ -205,7 +205,7 @@
       <Placemark>
         <name>Pioneer Music</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[21 Chandlers Row, Colchester CO1 2HG<br>www.pioneermusic.co.uk<br>+44 1206 791604]]></description>
         <Point>
           <coordinates>
@@ -216,7 +216,7 @@
       <Placemark>
         <name>Rehearsal Space London</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[1 Creek Rd, Greenwich, London SE8 3BT<br>rehearsalspacefinder.com<br>+44 20 8691 3803]]></description>
         <Point>
           <coordinates>
@@ -227,7 +227,7 @@
       <Placemark>
         <name>Stag Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[Unit 3, Stepfield, Witham CM8 3TH<br>www.stagstudios.co.uk<br>+44 1376 502209]]></description>
         <Point>
           <coordinates>
@@ -238,7 +238,7 @@
       <Placemark>
         <name>Rehearsal Space London</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[1 Creek Rd, Greenwich, London SE8 3BT<br>rehearsalspacefinder.com<br>+44 20 8691 3803]]></description>
         <Point>
           <coordinates>
@@ -249,7 +249,7 @@
       <Placemark>
         <name>Mushroom Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[Lubbards Lodge, Hullbridge Rd, Rayleigh SS6 9QG<br>www.mushroomrehearsalstudios.com<br>+44 7833 104822]]></description>
         <Point>
           <coordinates>
@@ -260,7 +260,7 @@
       <Placemark>
         <name>AT Music Group</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11, Rawlings Farm Bldg, Main Rd, Rettendon Common, Chelmsford CM3 8DY<br>www.atmusicgroup.co.uk<br>+44 333 121 8080]]></description>
         <Point>
           <coordinates>
@@ -271,7 +271,7 @@
       <Placemark>
         <name>Soundmagic Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[55 Mill Rd, Great Totham, Maldon CM9 8DH<br>www.soundmagic.co.uk<br>+44 1621 891643]]></description>
         <Point>
           <coordinates>
@@ -282,7 +282,7 @@
       <Placemark>
         <name>Card Trick Music</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[10 Margaretting Rd, Writtle, Chelmsford CM1 3PJ<br>www.cardtrickmusic.co.uk<br>+44 7718 210355]]></description>
         <Point>
           <coordinates>
@@ -293,7 +293,7 @@
       <Placemark>
         <name>Studio 6 Music</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Unit 6, 18 Crittall Rd, Witham CM8 3DR<br>www.studio6music.com<br>+44 1376 517856]]></description>
         <Point>
           <coordinates>
@@ -304,7 +304,7 @@
       <Placemark>
         <name>Studio 808</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11A, Robjohns House, Navigation Rd, Chelmsford CM2 6ND<br>www.studio808online.co.uk<br>+44 1245 261338]]></description>
         <Point>
           <coordinates>
@@ -315,7 +315,7 @@
       <Placemark>
         <name>Creative Music Studios</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Middleton Hall, Brentwood Rd, Horndon on the Hill, Brentwood CM13 3LX<br>www.creativemusicstudios.co.uk<br>+44 1277 811886]]></description>
         <Point>
           <coordinates>
@@ -326,7 +326,7 @@
       <Placemark>
         <name>Pioneer Music</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[21 Chandlers Row, Colchester CO1 2HG<br>www.pioneermusic.co.uk<br>+44 1206 791604]]></description>
         <Point>
           <coordinates>
@@ -337,7 +337,7 @@
       <Placemark>
         <name>Rehearsal Space London</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[1 Creek Rd, Greenwich, London SE8 3BT<br>rehearsalspacefinder.com<br>+44 20 8691 3803]]></description>
         <Point>
           <coordinates>
@@ -348,7 +348,7 @@
       <Placemark>
         <name>Apollo Studio London</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11, Crusader Industrial Estate, 167 Hermitage Rd, Finsbury Park, London N4 1LZ<br>www.apollostudiolondon.com<br>+44 7713 636382]]></description>
         <Point>
           <coordinates>
@@ -359,7 +359,7 @@
       <Placemark>
         <name>Pirate Studios - Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[58 Bard Rd, Notting Hill, London W10 6TP<br>www.piratest2dios.co.uk<br>+44 333 241 9598]]></description>
         <Point>
           <coordinates>
@@ -370,7 +370,7 @@
       <Placemark>
         <name>London Rehearsal Space</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[33, Templeton House, 34 Chiswell St, London EC1Y 4SF<br>www.london-rehearsal-space.co.uk<br>+44 20 7650 8731]]></description>
         <Point>
           <coordinates>
@@ -381,7 +381,7 @@
       <Placemark>
         <name>Westbourne Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[92-98 Bourne Terrace, London W2 5TH<br>www.westbournerehearsals.com<br>+44 20 7289 8142]]></description>
         <Point>
           <coordinates>
@@ -392,7 +392,7 @@
       <Placemark>
         <name>The Engine Rooms Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Unit 30 Bow Triangle Business Centre, Eleanor St, London E3 4UR<br>www.engineroomsstudios.com<br>+44 20 8981 0435]]></description>
         <Point>
           <coordinates>
@@ -403,7 +403,7 @@
       <Placemark>
         <name>Vatican Rehearsal and Recording Studios</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Railway Arch, 190 Bancroft Rd, Bethnal Green, London E1 4ET<br>thevatican.biz<br>+44 20 7790 7026]]></description>
         <Point>
           <coordinates>
@@ -414,7 +414,7 @@
       <Placemark>
         <name>Bush Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[151 The Arches, MacFarlane Rd, Shepherd's Bush, London W12 7LA<br>www.bushstudios.co.uk<br>+44 20 8740 1740]]></description>
         <Point>
           <coordinates>
@@ -425,7 +425,7 @@
       <Placemark>
         <name>Strummers Studios - Rehearsal, Recording and Backline Hire</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[11 George's Rd, London N7 8HD<br>www.strummersstudios.com<br>+44 20 8616 0551]]></description>
         <Point>
           <coordinates>
@@ -436,7 +436,7 @@
       <Placemark>
         <name>Rehearsal Space London</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[1 Creek Rd, Greenwich, London SE8 3BT<br>rehearsalspacefinder.com<br>+44 20 8691 3803]]></description>
         <Point>
           <coordinates>
@@ -447,7 +447,7 @@
       <Placemark>
         <name>Strummers Studios - Rehearsal, Recording and Backline Hire</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[11 George's Rd, London N7 8HD<br>www.strummersstudios.com<br>+44 20 8616 0551]]></description>
         <Point>
           <coordinates>
@@ -458,7 +458,7 @@
       <Placemark>
         <name>Apollo Studio London</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Unit 11, Crusader Industrial Estate, 167 Hermitage Rd, Finsbury Park, London N4 1LZ<br>www.apollostudiolondon.com<br>+44 7713 636382]]></description>
         <Point>
           <coordinates>
@@ -469,7 +469,7 @@
       <Placemark>
         <name>London Rehearsal Space</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[33, Templeton House, 34 Chiswell St, London EC1Y 4SF<br>www.london-rehearsal-space.co.uk<br>+44 20 7650 8731]]></description>
         <Point>
           <coordinates>
@@ -480,7 +480,7 @@
       <Placemark>
         <name>Westbourne Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[92-98 Bourne Terrace, London W2 5TH<br>www.westbournerehearsals.com<br>+44 20 7289 8142]]></description>
         <Point>
           <coordinates>
@@ -491,7 +491,7 @@
       <Placemark>
         <name>The Engine Rooms Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[Unit 30 Bow Triangle Business Centre, Eleanor St, London E3 4UR<br>www.engineroomsstudios.com<br>+44 20 8981 0435]]></description>
         <Point>
           <coordinates>
@@ -502,7 +502,7 @@
       <Placemark>
         <name>Pirate Studios - Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Unit 2, Meridian Trading Estate, 22 Bugsby's Way, Charlton, London SE7 7SJ<br>www.piratest2dios.co.uk<br>+44 333 241 9598]]></description>
         <Point>
           <coordinates>
@@ -513,7 +513,7 @@
       <Placemark>
         <name>Bush Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[151 The Arches, MacFarlane Rd, Shepherd's Bush, London W12 7LA<br>www.bushstudios.co.uk<br>+44 20 8740 1740]]></description>
         <Point>
           <coordinates>
@@ -524,7 +524,7 @@
       <Placemark>
         <name>NSP Recording and Rehearsal Studio</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[The Builders Yard, Heath Road, Boughton Monchelsea, Maidstone ME17 4GY<br>www.nsprecordingstudios.co.uk<br>+44 7878 215396]]></description>
         <Point>
           <coordinates>
@@ -535,7 +535,7 @@
       <Placemark>
         <name><![CDATA[Riverside Rehearsal Studios & Drumzone Shop]]></name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Victoria Industrial Park, Victoria Rd, Dartford DA1 5AJ<br>+44 1322 394964]]></description>
         <Point>
           <coordinates>
@@ -546,7 +546,7 @@
       <Placemark>
         <name>Ebbsfleet Studios</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[M5, Kent Kraft Industrial Estate, Lower Rd, Northfleet, Gravesend DA11 9SR<br>+44 1322 427232]]></description>
         <Point>
           <coordinates>
@@ -557,7 +557,7 @@
       <Placemark>
         <name><![CDATA[Sunlight Recording & Rehearsal Studio]]></name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[105 Richmond Rd, Gillingham ME7 1LX<br>sunlightstudios.org.uk<br>+44 1634 791665]]></description>
         <Point>
           <coordinates>
@@ -568,7 +568,7 @@
       <Placemark>
         <name>Swanley Studios</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Unit 6, New Barn Rd, Dartford, Swanley BR8 7PW<br>www.swanleystudios.co.uk<br>+44 7774 128883]]></description>
         <Point>
           <coordinates>
@@ -579,7 +579,7 @@
       <Placemark>
         <name>Aardvark Music Services-Rehearsal Room and Recording Studio</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[Lamberhurst Farm Industrial Estate, Faversham ME13 9EP<br>www.aardvarkrehearsalstudio.co.uk<br>+44 7719 059041]]></description>
         <Point>
           <coordinates>
@@ -590,7 +590,7 @@
       <Placemark>
         <name>Langlei Studios</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[Matts Hill Rd, Sittingbourne ME9 7XA<br>www.langleistudios.com<br>+44 1634 378974]]></description>
         <Point>
           <coordinates>
@@ -601,7 +601,7 @@
       <Placemark>
         <name>Dover Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[12 Castle Ave, Dover CT16 1EZ<br>doverrehearsalroom.co.uk<br>+44 1304 219767]]></description>
         <Point>
           <coordinates>
@@ -612,7 +612,7 @@
       <Placemark>
         <name>The Fort Rehearsal and Recording Studio</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Unit 49, Fort Horsted Business Centre, Primrose Cl, Chatham ME4 6HZ<br>+44 7495 504725]]></description>
         <Point>
           <coordinates>
@@ -623,7 +623,7 @@
       <Placemark>
         <name>Orange Studios</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Granville Rd, Maidstone ME14 2BJ<br>+44 7715 131556]]></description>
         <Point>
           <coordinates>
@@ -634,7 +634,7 @@
       <Placemark>
         <name>Strongroom Music Studios</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[120-124 Curtain Rd, Shoreditch, London EC2A 3SQ<br>www.strongroom.com<br>+44 20 7426 5100]]></description>
         <Point>
           <coordinates>
@@ -645,7 +645,7 @@
       <Placemark>
         <name>Mushroom Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Lubbards Lodge, Hullbridge Rd, Rayleigh SS6 9QG<br>www.mushroomrehearsalstudios.com<br>+44 7833 104822]]></description>
         <Point>
           <coordinates>
@@ -656,7 +656,7 @@
       <Placemark>
         <name>Pirate Studios - Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[Unit 2, Meridian Trading Estate, 22 Bugsby's Way, Charlton, London SE7 7SJ<br>www.piratest2dios.co.uk<br>+44 333 241 9598]]></description>
         <Point>
           <coordinates>
@@ -667,7 +667,7 @@
       <Placemark>
         <name>Strummers Studios - Rehearsal, Recording and Backline Hire</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[11 George's Rd, London N7 8HD<br>www.strummersstudios.com<br>+44 20 8616 0551]]></description>
         <Point>
           <coordinates>
@@ -678,7 +678,7 @@
       <Placemark>
         <name>Vatican Rehearsal and Recording Studios</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Railway Arch, 190 Bancroft Rd, Bethnal Green, London E1 4ET<br>thevatican.biz<br>+44 20 7790 7026]]></description>
         <Point>
           <coordinates>
@@ -689,7 +689,7 @@
       <Placemark>
         <name>Bush Studios Ltd</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[151 The Arches, MacFarlane Rd, Shepherd's Bush, London W12 7LA<br>www.bushstudios.co.uk<br>+44 20 8740 1740]]></description>
         <Point>
           <coordinates>
@@ -700,7 +700,7 @@
       <Placemark>
         <name>Westbourne Rehearsal Studios</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[92-98 Bourne Terrace, London W2 5TH<br>www.westbournerehearsals.com<br>+44 20 7289 8142]]></description>
         <Point>
           <coordinates>
@@ -711,7 +711,7 @@
       <Placemark>
         <name>Banana Road Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[Unit D1, Birch House Business Centre, Birch Walk, Erith DA8 1QX<br>www.bananaroad.co.uk<br>+44 7871 250530]]></description>
         <Point>
           <coordinates>
@@ -722,7 +722,7 @@
       <Placemark>
         <name>Pioneer Music</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[21 Chandlers Row, Colchester CO1 2HG<br>www.pioneermusic.co.uk<br>+44 1206 791604]]></description>
         <Point>
           <coordinates>
@@ -733,7 +733,7 @@
       <Placemark>
         <name>Strongroom Music Studios</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[120-124 Curtain Rd, Shoreditch, London EC2A 3SQ<br>www.strongroom.com<br>+44 20 7426 5100]]></description>
         <Point>
           <coordinates>
@@ -744,7 +744,7 @@
       <Placemark>
         <name>Warehouse Studios</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[Unit 60, Sandford Lane Industrial Estate, Sandford Ln, Kennington, Oxford OX1 5RW<br>www.warehousestudios.com<br>+44 7876 487923]]></description>
         <Point>
           <coordinates>
@@ -755,7 +755,7 @@
       <Placemark>
         <name>Master Rhythm Studios</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Master Rhythm Studios, Unit 7-8 Westbridge House Templars Square, 129 Pound Way (Hockmore Street), Oxford OX4 3XH<br>masterrhythm.co.uk<br>+44 7765 224245]]></description>
         <Point>
           <coordinates>
@@ -766,7 +766,7 @@
       <Placemark>
         <name>Glasshouse Studios</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[Denman's Ln, Cumnor, Oxford OX2 9PF<br>glasshousestudios.org<br>+44 7917 685935]]></description>
         <Point>
           <coordinates>
@@ -777,7 +777,7 @@
       <Placemark>
         <name>Soundworks Recording Studio Oxford</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[Blackbird Leys Community Centre, Blackbird Leys Rd, Oxford OX4 6HW<br>www.soundworks-oxford.co.uk<br>+44 1865 401585]]></description>
         <Point>
           <coordinates>
@@ -788,7 +788,7 @@
       <Placemark>
         <name>Rotator Studios</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[74-77 Magdalen Rd, Oxford OX4 1RE<br>www.rotator.co.uk<br>+44 1865 240250]]></description>
         <Point>
           <coordinates>
@@ -799,7 +799,7 @@
       <Placemark>
         <name>Evolution Studios</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[Kings Meadow, Ferry Hinksey Rd, Oxford OX2 0DP<br>www.evolutionstudios.co.uk<br>+44 1865 203073]]></description>
         <Point>
           <coordinates>
@@ -810,7 +810,7 @@
       <Placemark>
         <name>Safehouse Studio</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[Standingford House, Cave St, Oxford OX4 1BA<br>www.safehousestudio.co.uk<br>+44 7731 804796]]></description>
         <Point>
           <coordinates>
@@ -821,7 +821,7 @@
       <Placemark>
         <name><![CDATA[Cooz's Records]]></name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[Unit 36, Curtis Industrial Estate (Suite 1), 36 N Hinksey Ln, Oxford OX2 0LX<br>www.coozes.com<br>+44 1865 236117]]></description>
         <Point>
           <coordinates>
@@ -832,7 +832,7 @@
       <Placemark>
         <name>Accelerator Studio</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[81 Langley Cl, Oxford OX3 7DB<br>www.acceleratorstudio.co.uk<br>+44 7538 159857]]></description>
         <Point>
           <coordinates>
@@ -843,7 +843,7 @@
       <Placemark>
         <name>Oxfordshire Music Rooms</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Berrick Rd, Chalgrove OX44 7RQ<br>www.oxfordshiremusicrooms.co.uk<br>+44 7774 228440]]></description>
         <Point>
           <coordinates>
@@ -854,7 +854,7 @@
       <Placemark>
         <name>Rhinocorn Studio</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[b, 20 Mercers Row, Cambridge CB5 8HY<br>www.rhinocorn.co.uk<br>+44 1223 355255]]></description>
         <Point>
           <coordinates>
@@ -865,7 +865,7 @@
       <Placemark>
         <name>The Lock Up Cambridge Music Rehearsal Rooms</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Unit 9, Cave Industrial Estate, Fen Rd, Cambridge CB4 1UN<br>+44 7503 403682]]></description>
         <Point>
           <coordinates>
@@ -876,7 +876,7 @@
       <Placemark>
         <name>Half-ton Studios</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[113, Norman Industrial Estate, Cambridge Rd, Milton, Cambridge CB24 6AT<br>www.halftonstudios.co.uk<br>+44 7973 414317]]></description>
         <Point>
           <coordinates>
@@ -887,7 +887,7 @@
       <Placemark>
         <name>Kite Recording Studio</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[38 James St, Cambridge CB1 1HX<br>www.kitest2dio.co.uk<br>+44 1223 511651]]></description>
         <Point>
           <coordinates>
@@ -898,7 +898,7 @@
       <Placemark>
         <name>Flightpath Rehearsal Studio</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[2 Quy Water Cottages, Newmarket Rd, Teversham, Cambridge CB1 9AT<br>flightpathrehearsalstudio.weebly.com<br>+44 1223 295213]]></description>
         <Point>
           <coordinates>
@@ -909,7 +909,7 @@
       <Placemark>
         <name>Headline Music Studios</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[D1, Button End Industrial Estate, Button End, Harston, Cambridge CB22 7GX<br>www.headlinemusicstudios.com<br>+44 1223 926647]]></description>
         <Point>
           <coordinates>
@@ -920,7 +920,7 @@
       <Placemark>
         <name>Zoo Audio</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[1D Coles Rd, Milton, Cambridge CB24 6BW<br>www.zooaudio.co.uk<br>+44 1223 519296]]></description>
         <Point>
           <coordinates>
@@ -931,7 +931,7 @@
       <Placemark>
         <name>Resonant Rehearsals</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[113, Norman Industrial Estate, Milton, Cambridge CB24 6AT<br>www.resonantrehearsals.com<br>+44 7973 414317]]></description>
         <Point>
           <coordinates>
@@ -942,7 +942,7 @@
       <Placemark>
         <name>Bookmatch Recording Studio</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Topfield Farm, 16 Cambridge Rd, Barton, Cambridge CB23 7AR<br>www.timbondmusic.com<br>+44 1223 778539]]></description>
         <Point>
           <coordinates>
@@ -953,7 +953,7 @@
       <Placemark>
         <name>Rhinocorn Studio</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[Unit B, 20 Mercers Row, Cambridge CB5 8HY<br>www.rhinocorn.co.uk<br>+44 1223 355255]]></description>
         <Point>
           <coordinates>
@@ -964,7 +964,7 @@
       <Placemark>
         <name>New Money Recordings</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[The Old Bus Station, 401 Elder Gate, Milton Keynes MK9 1LR<br>+44 1908 880300]]></description>
         <Point>
           <coordinates>
@@ -975,7 +975,7 @@
       <Placemark>
         <name>Lost Boys Studio</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Hill Green Farm, Bourne End, Cranfield, Bedford MK43 0AX<br>www.lostboysstudio.com<br>+44 1234 750730]]></description>
         <Point>
           <coordinates>
@@ -986,7 +986,7 @@
       <Placemark>
         <name>Old School Studios</name>
         <description><![CDATA[
-    <a href="./test20.html">Details</a><br>
+    <a href="./test20.html?name=">Details</a><br>
               ]]><![CDATA[9, St James St, New Bradwell, Milton Keynes MK13 0BL<br>www.oldschoolmk.com<br>+44 1908 990431]]></description>
         <Point>
           <coordinates>
@@ -997,7 +997,7 @@
       <Placemark>
         <name>Mr Gig Studios</name>
         <description><![CDATA[
-    <a href="./test21.html">Details</a><br>
+    <a href="./test21.html?name=">Details</a><br>
               ]]><![CDATA[15 Tavistock St, Bletchley, Milton Keynes MK2 2PF<br>www.mrgigstudios.com<br>+44 1908 376500]]></description>
         <Point>
           <coordinates>
@@ -1008,7 +1008,7 @@
       <Placemark>
         <name>Hillside Recording Studio</name>
         <description><![CDATA[
-    <a href="./test22.html">Details</a><br>
+    <a href="./test22.html?name=">Details</a><br>
               ]]><![CDATA[Drayton Rd, Newton Longville, Milton Keynes MK17 0BD<br>+44 7908 256067]]></description>
         <Point>
           <coordinates>
@@ -1019,7 +1019,7 @@
       <Placemark>
         <name>Unit Nine Live Music Venue</name>
         <description><![CDATA[
-    <a href="./test23.html">Details</a><br>
+    <a href="./test23.html?name=">Details</a><br>
               ]]><![CDATA[9, Bridgeturn Ave, Wolverton, Milton Keynes MK12 5QL<br>unitninemk.com<br>+44 1908 317995]]></description>
         <Point>
           <coordinates>
@@ -1030,7 +1030,7 @@
       <Placemark>
         <name>Rock Hard Music Ltd</name>
         <description><![CDATA[
-    <a href="./test24.html">Details</a><br>
+    <a href="./test24.html?name=">Details</a><br>
               ]]><![CDATA[9 Canons Rd, Wolverton, Milton Keynes MK12 5TL<br>www.rockhard-music.com<br>+44 1908 314300]]></description>
         <Point>
           <coordinates>
@@ -1041,7 +1041,7 @@
       <Placemark>
         <name>Eastwood Studios</name>
         <description><![CDATA[
-    <a href="./test25.html">Details</a><br>
+    <a href="./test25.html?name=">Details</a><br>
               ]]><![CDATA[Unit 2, Manor Farm, Bullington End Rd, Hanslope, Milton Keynes MK19 7BQ<br>+44 7740 854456]]></description>
         <Point>
           <coordinates>
@@ -1052,7 +1052,7 @@
       <Placemark>
         <name>Superhet</name>
         <description><![CDATA[
-    <a href="./test26.html">Details</a><br>
+    <a href="./test26.html?name=">Details</a><br>
               ]]><![CDATA[Springfield Farm, Salden Ln, Milton Keynes MK17 0PN<br>www.superhet.net<br>+44 1908 465375]]></description>
         <Point>
           <coordinates>
@@ -1063,7 +1063,7 @@
       <Placemark>
         <name>RGS Music Group</name>
         <description><![CDATA[
-    <a href="./test27.html">Details</a><br>
+    <a href="./test27.html?name=">Details</a><br>
               ]]><![CDATA[9 Bridgeturn Ave, Wolverton, Milton Keynes MK12 5QL<br>www.rgsmusicgroup.com<br>+44 1908 317995]]></description>
         <Point>
           <coordinates>
@@ -1074,7 +1074,7 @@
       <Placemark>
         <name>The Rehearsal Rooms</name>
         <description><![CDATA[
-    <a href="./test28.html">Details</a><br>
+    <a href="./test28.html?name=">Details</a><br>
               ]]><![CDATA[4 St Andrew's St S, Bury Saint Edmunds IP33 3PH<br>www.therehearsalrooms.co.uk<br>+44 7947 475124]]></description>
         <Point>
           <coordinates>
@@ -1085,7 +1085,7 @@
       <Placemark>
         <name>The Shrubbery Recording Studio</name>
         <description><![CDATA[
-    <a href="./test29.html">Details</a><br>
+    <a href="./test29.html?name=">Details</a><br>
               ]]><![CDATA[Brittania House Brunel Business Court, Eastern Way, Bury Saint Edmunds IP32 7AJ<br>www.facebook.com<br>+44 1284 725440]]></description>
         <Point>
           <coordinates>
@@ -1096,7 +1096,7 @@
       <Placemark>
         <name>Soundz Wicked Productions</name>
         <description><![CDATA[
-    <a href="./test200.html">Details</a><br>
+    <a href="./test200.html?name=">Details</a><br>
               ]]><![CDATA[Carters barber Shop, 49 Out Risbygate, Street, Bury St Edmunds, Bury Saint Edmunds IP33 3RJ<br>+44 7816 891913]]></description>
         <Point>
           <coordinates>
